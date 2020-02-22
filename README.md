@@ -1,9 +1,6 @@
 # DataScience-Scratch
 ---
-Personal DataScience Work and projects 
- 
- 
-Scratch work to display previous and current projects related to data science. 
+Personal DataScience Work and projects to display previous and current projects related to data science and machine learning. 
 
 Work inclues topics on... 
 - NLP
